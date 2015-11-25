@@ -4,7 +4,7 @@
         <description><![CDATA[Noni - Art & Design]]></description>
         <link>https://thegrid.ai/noni-art-and-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 09:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 09:46:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/noni-art-and-design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sheet 1]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/noni-art-and-design/sheet-1/index.html</link>
             <guid isPermaLink="false">bdbc95dc-a1b7-4ccd-bf2c-30ec1ea3901c</guid>
             <pubDate>Wed, 25 Nov 2015 06:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Social Media]]></title>
-            <description><![CDATA[<article><h1>Social Media</h1><p>Facebook</p></article>]]></description>
-            <link>https://thegrid.ai/noni-art-and-design/sheet-2/index.html</link>
-            <guid isPermaLink="false">ea33d945-d47d-4fb2-9134-55bc72a01b6a</guid>
-            <pubDate>Wed, 25 Nov 2015 08:28:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
