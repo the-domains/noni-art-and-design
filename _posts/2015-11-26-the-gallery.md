@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-26T18:56:30.659Z'
-dateModified: '2015-11-26T18:56:25.879Z'
+datePublished: '2015-11-26T19:39:02.676Z'
+dateModified: '2015-11-26T19:38:55.041Z'
 title: The Gallery.
 author: []
 sourcePath: _posts/2015-11-26-the-gallery.md
