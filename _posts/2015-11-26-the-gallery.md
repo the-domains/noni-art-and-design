@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-26T04:50:12.985Z'
-dateModified: '2015-11-26T04:50:02.380Z'
+datePublished: '2015-11-26T04:54:13.509Z'
+dateModified: '2015-11-26T04:54:06.643Z'
 title: The Gallery.
 author: []
 sourcePath: _posts/2015-11-26-the-gallery.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-gallery/index.html
-_type: Article
+_type: WebPage
 
 ---
 # The Gallery.
