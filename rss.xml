@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Noni - Art & Design]]></title>
-        <description><![CDATA[Noni - Art & Design]]></description>
+        <title><![CDATA[Noni - Art and Design]]></title>
+        <description><![CDATA[Noni - Art and Design]]></description>
         <link>https://thegrid.ai/noni-art-and-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 Nov 2015 04:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2015 04:54:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/noni-art-and-design/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Gallery.]]></title>
-            <description><![CDATA[<article><h1>The Gallery.</h1><p>Here are my works for sale.</p></article>]]></description>
-            <link>https://thegrid.ai/noni-art-and-design/the-gallery/index.html</link>
-            <guid isPermaLink="false">d8a90aeb-c1c0-4354-a1e6-5b9a1d628be5</guid>
-            <pubDate>Thu, 26 Nov 2015 04:50:12 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Start]]></title>
             <description><![CDATA[<article><h1>Start</h1><p>Content</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fac681f2-2fd7-4397-8cfd-5a66881dee37.jpg"></article>]]></description>
