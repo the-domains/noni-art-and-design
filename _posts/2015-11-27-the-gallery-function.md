@@ -1,0 +1,55 @@
+---
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-11-27T02:57:20.096Z'
+dateModified: '2015-11-27T02:57:03.973Z'
+title: The Gallery - Function
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2015-11-27-the-gallery-function.md
+published: true
+url: the-gallery-function/index.html
+_type: WebPage
+
+---
+# The Gallery - Function
+
+I'm always looking translate my art into pleasing functional designs.
+
+These pieces, some of which are available for purchase, reflect examples of how I bring my art from the world of reflection into the world of function.
+
+# Calendars
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28aeb5b8-2c17-496e-946c-bfde9cc7fc4a.jpg)
+
+[Contact Noni for details][0]
+
+# Coasters, Door-stops
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b53c9ea1-d573-41fc-919d-0f61bb7f70c5.jpg)
+
+[Contact Noni for details][1]
+
+# Cushions
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e080115e-cacf-41f7-8578-b50c06773bf8.jpg)
+
+[Contact Noni for details][1]
+
+# Netball Uniforms
+
+(In conjunction with [Stellar Uniforms][2])
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49160386-bd47-462d-84a4-4c17947eedce.jpg)
+
+[Contact Noni for details][1]
+
+[0]: noni_artanddesign@hotmail.com
+[1]: https://app.thegrid.io/posts/4bdd4f32-b931-4bb2-ba75-c46432fb3459/noni_artanddesign@hotmail.com
+[2]: http://www.stellaruniforms.com/
