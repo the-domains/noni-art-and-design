@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-27T03:42:42.029Z'
-dateModified: '2015-11-27T03:42:36.418Z'
+datePublished: '2015-11-27T04:40:26.636Z'
+dateModified: '2015-11-27T04:40:14.479Z'
 title: The Gallery - Function
 author: []
 sourcePath: _posts/2015-11-27-the-gallery-function.md
@@ -31,25 +31,15 @@ These pieces, some of which are available for purchase, reflect examples of how 
 # Calendars
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28aeb5b8-2c17-496e-946c-bfde9cc7fc4a.jpg)
 
-[Contact Noni for details][0]
-
 # Coasters, Door-stops
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b53c9ea1-d573-41fc-919d-0f61bb7f70c5.jpg)
-
-[Contact Noni for details][1]
 
 # Cushions
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e080115e-cacf-41f7-8578-b50c06773bf8.jpg)
 
-[Contact Noni for details][1]
-
 # Netball Uniforms
 
-(In conjunction with [Stellar Uniforms][2])
+(In conjunction with [Stellar Uniforms][0])
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49160386-bd47-462d-84a4-4c17947eedce.jpg)
 
-[Contact Noni for details][1]
-
-[0]: noni_artanddesign@hotmail.com
-[1]: https://app.thegrid.io/posts/4bdd4f32-b931-4bb2-ba75-c46432fb3459/noni_artanddesign@hotmail.com
-[2]: http://www.stellaruniforms.com/
+[0]: http://www.stellaruniforms.com/
