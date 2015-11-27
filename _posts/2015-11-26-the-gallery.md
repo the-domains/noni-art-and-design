@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-27T01:53:32.811Z'
-dateModified: '2015-11-27T01:53:25.120Z'
+datePublished: '2015-11-27T03:31:07.827Z'
+dateModified: '2015-11-27T03:30:58.231Z'
 title: The Gallery - Decoration
 author: []
 sourcePath: _posts/2015-11-26-the-gallery.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-gallery/index.html
-_type: WebPage
+_type: Article
 
 ---
 # The Gallery - Decoration
