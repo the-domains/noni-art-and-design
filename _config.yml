@@ -1,6 +1,6 @@
 name: 'Noni Art & Design'
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.24729
 typography_spectrum: 0.46748
 title: Noni - Art and Design
 cta:
@@ -22,7 +22,7 @@ color:
     - '#ffeed1'
     - '#700934'
     - '#f0917e'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.4375
   saturation: 0.875
   rhythmicContrast: 0.25
