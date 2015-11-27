@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-27T02:57:20.096Z'
-dateModified: '2015-11-27T02:57:03.973Z'
+datePublished: '2015-11-27T03:17:52.597Z'
+dateModified: '2015-11-27T03:17:46.980Z'
 title: The Gallery - Function
 author: []
+sourcePath: _posts/2015-11-27-the-gallery-function.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-27-the-gallery-function.md
-published: true
 url: the-gallery-function/index.html
 _type: WebPage
 
 ---
 # The Gallery - Function
 
-I'm always looking translate my art into pleasing functional designs.
+I always look for ways to translate my art into pleasing functional designs.
 
 These pieces, some of which are available for purchase, reflect examples of how I bring my art from the world of reflection into the world of function.
 
