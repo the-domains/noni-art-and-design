@@ -1,31 +1,31 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Artist at Work
-datePublished: '2015-11-27T03:01:16.317Z'
-dateModified: '2015-11-27T03:00:56.259Z'
+datePublished: '2015-11-27T03:11:27.135Z'
+dateModified: '2015-11-27T03:11:19.832Z'
 title: Artist @ Work
 author: []
+sourcePath: _posts/2015-11-27-artist-work.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-27-artist-work.md
-published: true
 url: artist-work/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Artist @ Work
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0471b66c-c1a5-4896-9062-69dcfd8dfc32.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9d996fb-49da-4614-b832-33bea8fb5541.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/545fd2a4-a963-4406-856a-afa1893e236c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0471b66c-c1a5-4896-9062-69dcfd8dfc32.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd2e3421-f216-447b-bc42-b9e03441149d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42f26c07-8ffa-47ee-9947-4288c32f94a4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63a15f15-b7a4-4de1-8640-ea8282d55fbb.jpg)
