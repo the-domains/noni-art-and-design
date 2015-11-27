@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-27T01:52:56.308Z'
-dateModified: '2015-11-27T01:52:51.389Z'
-title: The Gallery.
+datePublished: '2015-11-27T01:53:32.811Z'
+dateModified: '2015-11-27T01:53:25.120Z'
+title: The Gallery - Decoration
 author: []
 sourcePath: _posts/2015-11-26-the-gallery.md
 published: true
@@ -22,7 +22,7 @@ url: the-gallery/index.html
 _type: WebPage
 
 ---
-# The Gallery.
+# The Gallery - Decoration
 
 Here are my works for sale.
 
