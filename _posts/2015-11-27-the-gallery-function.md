@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-27T04:40:26.636Z'
-dateModified: '2015-11-27T04:40:14.479Z'
+datePublished: '2015-11-27T05:22:22.183Z'
+dateModified: '2015-11-27T04:58:47.700Z'
 title: The Gallery - Function
 author: []
 sourcePath: _posts/2015-11-27-the-gallery-function.md
