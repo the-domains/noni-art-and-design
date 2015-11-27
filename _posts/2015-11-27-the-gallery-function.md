@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-27T03:38:11.561Z'
-dateModified: '2015-11-27T03:38:03.794Z'
+datePublished: '2015-11-27T03:42:42.029Z'
+dateModified: '2015-11-27T03:42:36.418Z'
 title: The Gallery - Function
 author: []
 sourcePath: _posts/2015-11-27-the-gallery-function.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-gallery-function/index.html
-_type: Article
+_type: WebPage
 
 ---
 # The Gallery - Function
