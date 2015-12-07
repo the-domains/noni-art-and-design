@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-27T05:22:22.183Z'
-dateModified: '2015-11-27T04:58:47.700Z'
+datePublished: '2015-12-07T22:09:17.260Z'
+dateModified: '2015-12-07T22:09:11.088Z'
 title: The Gallery - Function
 author: []
 sourcePath: _posts/2015-11-27-the-gallery-function.md
@@ -41,5 +41,8 @@ These pieces, some of which are available for purchase, reflect examples of how 
 
 (In conjunction with [Stellar Uniforms][0])
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49160386-bd47-462d-84a4-4c17947eedce.jpg)
+
+# Paper Weights
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/90de484082f203d3f4a58dead942d53f037cf2bc.jpg)
 
 [0]: http://www.stellaruniforms.com/
